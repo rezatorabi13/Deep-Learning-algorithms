@@ -1,6 +1,6 @@
 
 ## Deep learning algorithms
-In this toturial, some deep learning algoriths is introduced and codes for building and traininng neural networks from the scratch, based on tose algorithms, is provided.
+In this toturial, some deep learning algoriths is introduced and codes for building and traininng neural networks from the scratch, based on those algorithms, is provided.
 
 ### 1- Backpropagation algorithm
 Backpropagation algorithm is probably the most fundamental building block in a neural network. The algorithm is used to effectively train a neural network through a method called chain rule. In simple terms, after each forward pass through a network, backpropagation performs a backward pass while adjusting the model's parameters (weights and biases). In this toturial we develope a backpropagation algorithm from the scratch. Run <code>Backpro.py</code> to see the algorithm and how it works. 
