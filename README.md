@@ -1,5 +1,5 @@
 
-## Deep learning algorithms
+## Deep learning algorithms from scratch
 In this toturial, some deep learning algoriths is introduced and codes for building and traininng neural networks from the scratch, based on those algorithms, is provided.
 
 ### 1- Backpropagation algorithm
